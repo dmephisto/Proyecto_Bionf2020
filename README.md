@@ -117,7 +117,7 @@ Once all the aforementioned files have been obtained, it is necessary to open th
 
 
 
-*At the following link you can access the summary and discussion of the results of the analysis ["DMV_Report"](https://github.com/u-genoma/BioinfinvRepro/blob/master/Unidad7/Tutorial_Analisis_funcional_de_datos_de_microarreglos.md).*
+*At the following link you can access the summary and discussion of the results of the analysis ["DMV_Report"](https://github.com/dmephisto/DMV_Report/blob/master/DMV_Report.md).*
 
 
 
